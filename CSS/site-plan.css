@@ -38,11 +38,11 @@ header {
     padding: 1em;
     text-align: center;
     color: var(--accent2-color);
-    background-color:
+    background-color: var(--accent1-color)
 }
 
 header>h1 {
-    color:
+    color: var(--accent1-color)
 }
 
 p {
