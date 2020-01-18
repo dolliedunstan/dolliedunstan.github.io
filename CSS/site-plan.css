@@ -10,13 +10,13 @@
 }
 
 html {
-    background-color: var(--primary-color)
+    background-color: var(--accent1-color)
 }
 
 body {
     max-width: 900px;
     margin: 0 auto;
-    background-color: white;
+    background-color: var(--accent1-color);
     padding: 1em
 }
 
@@ -31,7 +31,7 @@ h4,
 h5,
 h6 {
     font-family: var(--heading-font);
-    color:
+    color: var(--primary-color)
 }
 
 header {
@@ -47,7 +47,7 @@ header>h1 {
 
 p {
     font-family: var(--paragraph-font);
-    color: ;
+    color: var(--accent2-color);
     padding: 1em
 }
 
@@ -84,7 +84,7 @@ p {
 }
 
 nav {
-    background-color: ;
+    background-color: #CED3DC;
     line-height: 3em;
     text-align: center;
     font-size: 1.2em
@@ -102,10 +102,10 @@ nav a {
 
 nav a:link,
 nav a:visited {
-    color:
+    color:purple
 }
 
 nav a:hover {
-    color: ;
-    background-color:
+    color:navy ;
+    background-color:gray
 }
