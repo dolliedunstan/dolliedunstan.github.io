@@ -41,11 +41,8 @@ header {
     background-color: var(--accent1-color)
 }
 
-header
-h1 
-{
-    color: var(--primary-color)
-}
+
+
 
 p {
     font-family: var(--paragraph-font);
