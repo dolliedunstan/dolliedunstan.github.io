@@ -42,7 +42,7 @@ header {
 }
 
 header>h1 {
-    color: var(--accent1-color)
+    color: var(--primary-color)
 }
 
 p {
