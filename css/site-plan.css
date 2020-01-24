@@ -43,6 +43,11 @@ header {
 
 
 
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: var(--secondary-color);
+}
 
 p {
     font-family: var(--paragraph-font);
