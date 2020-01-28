@@ -6,7 +6,7 @@
     --accent1-color: #528299;
     --accent2-color: #FCF7F8;
     --heading-font: "Noto+Sans+KR";
-    --paragraph-font: Quicksand, Helvetica, sans-serif
+    --paragraph-font: "Quicksand", Helvetica, sans-serif;
 }
 
 html {
