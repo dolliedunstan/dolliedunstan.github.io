@@ -12,7 +12,8 @@
 html {
     background-color: var(--accent1-color)
 }
-
+.social-media-square-set {background-color: var(--accent2-color);
+}
 body {
     max-width: 900px;
     margin: 0 auto;
