@@ -24,6 +24,7 @@ body {
 
 img {
     max-width: 100%
+    
 }
 
 h1,
@@ -36,6 +37,7 @@ h6 {
     color: var(--primary-color)
     
 }
+h2 {text-align: center;}
 
 header {
     padding: 1em;
@@ -45,7 +47,7 @@ header {
 }
 
 
-
+p{text-align: center;}
 
 
 p {
