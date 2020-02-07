@@ -46,7 +46,7 @@ header img {
 
 .motto {
 	font-style: italic;
-	color: forestgreen;
+	color: var(--accent2-color);
 	font-size: 1rem;
 	letter-spacing: 1.5pt;
 }
