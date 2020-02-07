@@ -14,8 +14,8 @@ html {
 
 }
 body {
-	background-color: var(--accent2-color);
-	padding: 0;
+	background-color: var(--accent1-color);
+	padding: 1em;
 	margin: 0;
 	font-size: 16px;
 }
@@ -40,7 +40,7 @@ header img {
 
 .heading h1 {
 	font-size: 2rem;
-	color: navy;
+	color: var(--primary-color);
 	margin: 0;
 }
 
@@ -57,13 +57,6 @@ header img {
 
 main {
     text-align: center;
-}
-
-body {
-    max-width: 900px;
-    margin: 0 auto;
-    background-color: var(--accent1-color);
-    padding: 1em;
 }
 
 img {
