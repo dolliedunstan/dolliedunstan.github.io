@@ -53,10 +53,12 @@ header img {
 
 .social-media-square-set {
     background-color: var(--accent2-color);
-    border-color:navy;
-    align-content: right;
+   text-align: right;
 }
-
+.copyright {
+    font-style: italic;
+    font-size: 1rem;
+}
 main {
     text-align: center;
 }
