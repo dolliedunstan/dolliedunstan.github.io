@@ -139,7 +139,7 @@ nav {
 
 nav>ul {
     list-style-type: none;
-    display: auto;
+    display: flex;
 }
 
 nav a {
