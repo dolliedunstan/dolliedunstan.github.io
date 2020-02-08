@@ -75,6 +75,7 @@ main {
 #pana{
     border-color: navy;
     border-style: double;
+    border-width: thick;
     max-width: 100%;
 }
 
@@ -103,9 +104,10 @@ p {
 }
 .footer{
     background-color: var(--secondary-color);
+    padding: 3em;
 }
 .colors {
-    width: 100%;
+    width: flex;
     min-width: 350px;
     margin: auto;
     text-align: center;
@@ -114,7 +116,12 @@ p {
 .colors th {
     background-color: #999;
 }
-
+#bluegreen {
+    text-align: right;
+    border-color: white;
+    border-style: double;
+    border-width: thick;
+}
 .colors td {
     width: 25%;
     height: 3em;
@@ -146,6 +153,7 @@ nav {
 nav ul {
     list-style-type: none;
     display: flex;
+    text-align: center;
 }
 
 nav a {
