@@ -72,7 +72,11 @@ main {
     text-align: center;
 }
 
-
+#pana{
+    border-color: navy;
+    border-style: double;
+    max-width: 100%;
+}
 
 h2,
 h3,
