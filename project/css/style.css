@@ -121,6 +121,7 @@ p {
     border-color: white;
     border-style: double;
     border-width: thick;
+    padding-left: 2em;
 }
 .colors td {
     width: 25%;
