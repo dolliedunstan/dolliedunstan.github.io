@@ -101,7 +101,9 @@ p {
     padding: 1em;
     margin: 2em;
 }
-
+.footer{
+    background-color: var(--secondary-color);
+}
 .colors {
     width: 100%;
     min-width: 350px;
