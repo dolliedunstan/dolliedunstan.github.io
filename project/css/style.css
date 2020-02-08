@@ -51,10 +51,12 @@ header img {
 	letter-spacing: 1.5pt;
 }
 .linkbar {
-    margin: 0;
-    font-size: 1em;
-    text-align: center;
-    align-content: center;
+flex-direction : row;
+margin : 1rem;
+padding : 1rem;
+border : 1rem;
+letter-spacing : 2px;
+list-style : none;
 }
 }
 .social-media-square-set {
@@ -136,7 +138,7 @@ nav {
     font-size: 1.2em;
 }
 
-nav>ul {
+nav ul {
     list-style-type: none;
     display: flex;
 }
