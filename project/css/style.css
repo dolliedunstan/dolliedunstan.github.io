@@ -38,9 +38,10 @@ header img {
 	height: auto;
 }
 
-.headings {
+.heading {
 	display: flex;
-	flex-direction: column;
+    flex-direction: column;
+    margin-left: 30px;
 }
 
 .heading h1 {
@@ -112,7 +113,7 @@ p {
     padding: 3em;
 }
 .colors {
-    width: flex;
+    display: flex;
     min-width: 350px;
     margin: auto;
     text-align: center;
