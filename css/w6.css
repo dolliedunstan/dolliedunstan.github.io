@@ -29,6 +29,7 @@ body {
   width: 200px;
   height: 200px;
   background-color: gold;
+  grid-template-columns: 1fr 1fr;
 }
 
 .blue1 {
