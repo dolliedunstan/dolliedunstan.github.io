@@ -22,6 +22,7 @@ body {
   width: 200px;
   height: 200px;
   background-color: green;
+  grid-template-columns: 1fr 1fr;
 }
 
 .gold1 {
