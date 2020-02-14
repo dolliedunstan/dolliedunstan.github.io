@@ -162,38 +162,38 @@ body {
 }
 .content5 {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  
   justify-items: center;
-  grid-gap: 20px;
   max-width: 600px;
+  
 }
 
 .red5 {
   width: 100%;
   height: 100px;
   background-color: red;
-  grid-column: 1/3;
+  
 }
 
 .green5 {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   background-color: green;
-  grid-template-columns: 1fr 1fr;
+  
 }
 
 .gold5 {
-  width: 200px;
-  height: 200px;
+  width: 100%;
+  height: 300px;
   background-color: gold;
-  grid-template-columns: 1fr 1fr;
+
 }
 
 .blue5 {
   width: 100%;
   height: 100px;
   background-color: blue;
-  grid-column: 1/3;
+  
 }
 .content6 {
   display: grid;
