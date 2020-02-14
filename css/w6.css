@@ -161,9 +161,9 @@ body {
   grid-row: 3/3;
 }
 .content5 {
-  display: grid;
   
-  justify-items: center;
+  flex-wrap: wrap;
+  
   max-width: 600px;
   
 }
@@ -180,15 +180,19 @@ body {
   height: 150px;
   background-color: green;
   
+ 
+  float: left;
+  
 }
 
 .gold5 {
   width: 100%;
   height: 300px;
   background-color: gold;
-
+  
 }
-
+.gold5 p { margin:0px;
+}
 .blue5 {
   width: 100%;
   height: 100px;
