@@ -63,7 +63,7 @@ align-items: center;
 
 .social-media-square-set {
     background-color: var(--accent2-color);
-   text-align: right;
+   justify-content: right;
 }
 .copyright {
     font-style: italic;
@@ -71,6 +71,7 @@ align-items: center;
 }
 footer {
     display: flex;
+    background-color: var(--accent2-color);
 }
 
 #pana{
@@ -171,7 +172,7 @@ nav a:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 0;
-    column-width: 192px;
+    
 }
 .home-headline-1 {
     grid-column: 1/4;
